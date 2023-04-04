@@ -1,5 +1,5 @@
 message:
-  EurekaServerClustered-usa
+  DiscoveryCloudService-usa
 spring:
   profiles: usa
   application:

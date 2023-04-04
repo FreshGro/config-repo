@@ -1,5 +1,5 @@
 message:
-  EurekaServerClustered-france
+  DiscoveryCloudService-france
 spring:
   profiles: france
   application:

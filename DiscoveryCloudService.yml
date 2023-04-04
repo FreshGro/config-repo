@@ -1,5 +1,5 @@
 message:
-  EurekaServerClustered
+  DiscoveryCloudService
 spring:
   profiles: default
 server:

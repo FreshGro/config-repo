@@ -1,5 +1,5 @@
 message:
-  EurekaServerClustered-vietnam
+  DiscoveryCloudService-vietnam
 spring:
   profiles: vietnam
   application:
